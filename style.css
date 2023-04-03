@@ -1,0 +1,49 @@
+/* Colors and Fonts */
+
+body{
+	background: #5c6f68;
+	color: rgb(50, 50, 50);
+	font-family: 'Fasthand', cursive;
+	font-size: 16px;
+}
+
+h1{
+	color: rgb(50, 50, 50);
+	font-family: 'Fasthand', cursive;
+	font-size: 32px;
+}
+
+h2{
+	color: rgb(80, 80, 80);
+	font-family: 'Fasthand', cursive;
+	font-size: 24px;
+}
+
+a{
+	text text-decoration:;
+}
+a:hover{
+	color: yellow;
+}
+
+/*Custom design with class*/
+.container {
+	margin: auto auto;
+}
+.card-white{
+	background: #95d9c3 ;
+    padding: 60px;
+    margin: 50px;
+    border-radius: 6px;
+    text-align: center;
+}
+.img-1{
+	border-radius: 40%;
+}
+.list-inline li {
+	display: inline;
+	padding: 2Opx;
+}
+.list-inline img:hover {
+	color: black;
+}
